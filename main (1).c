@@ -24,4 +24,10 @@ int main()
   return 0;
 }
 
+Enter the size of array:5
+Enter the key:10
+Enter the array elements:5
+10
+key is found
+
  
